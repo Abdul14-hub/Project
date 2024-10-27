@@ -1,0 +1,24 @@
+How to run this project
+1. Unzip this folder
+2. cd surface_det_proj
+3. python -m venv env_name
+4. env_name\Scripts\activate
+5. pip install -r requirements.txt
+6. python app.py 
+
+---
+pip install numpy 
+pip install opencv 
+pip install teserflow 
+=====================================================
+
+process to run project
+step 1: open aconda prompt 
+step 2: activate env 
+ conda activate sur_env
+step 3: cd downloads
+step 4: cd surface_det_proj
+step 5: cd surface_det_proj
+step 6: python app.py
+
+then it will start run on port 5000 ok below u can see url just click on that that will be open in default browser ok , now i hope all
